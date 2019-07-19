@@ -1,3 +1,4 @@
+(This repo has been moved to https://github.com/kdv123/TextPredictorPython. Please have a look at the license file associated with it.)
 # WordPredictor
 Library for performing word and chracter level predictions, with the help of kenlm (Language model inference code by Kenneth Heafield, kenlm at kheafield.com).
 
